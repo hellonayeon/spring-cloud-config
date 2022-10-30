@@ -3,4 +3,4 @@ token:
   secret: my_token_application_changed_#2
 
 gateway:
-  ip: 127.0.0.1
+  ip: 127.18.0.1
