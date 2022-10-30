@@ -3,7 +3,7 @@ token:
   secret: '{cipher}AQBbd1HRaKTUTxIci3pYtKVJAAYAtl9KKINwNgs0nBYnw0i/USUrPF/N+z959dJxcK33zueP+45XlwJklGQmQLHjSvHTT6A+OQguCSYUZQ09vsHj3Y2RSLgm4djodygBiew4EwfexISee9+/51rr/hxw6BzkI0sWzNzMIUMlwPneMeou7lcUrT0wvoiNlqQhI4PF+9Toi9yCFj9nny9IMS254gsqJfkZBawmwGb5Z4Xo89Y7x82gV7oDJow/4p1l6OgYwAfZXI1vU9s5+ipZIZNvU4T64ZxG37rm4SnPiRK/2tSFgc/xW1hfFQdsaXFAp54QPvyj0/yIlys0c7tyTDa2MWLGEmVD9DTRTVjNGf9OFLaxwyzDzcBu/myzah9p7cI='
 
 gateway:
-  ip: 192.168.0.8
+  ip: 127.0.0.1
 
 spring:
   datasource:
